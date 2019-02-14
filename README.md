@@ -1,3 +1,11 @@
+Root page :
+![angular5](https://user-images.githubusercontent.com/11645487/52809615-b461cc00-30b6-11e9-892e-810c3e5fa27b.png)
+
+Root page with router outlet :
+
+![angular5](https://user-images.githubusercontent.com/11645487/52809607-af9d1800-30b6-11e9-9ad9-2b9a724e33e5.png
+)
+
 # Suvojit
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
