@@ -1,5 +1,5 @@
 Root page :
-![angular5](https://user-images.githubusercontent.com/11645487/52809615-b461cc00-30b6-11e9-892e-810c3e5fa27b.png
+![angular5](https://user-images.githubusercontent.com/11645487/52809615-b461cc00-30b6-11e9-892e-810c3e5fa27b.png)
 
 Root page with router outlet :
 
