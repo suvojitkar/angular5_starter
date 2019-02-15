@@ -1,13 +1,13 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'raj',
+  selector: 'root-app-view',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })
 
 export class AppComponent {
-  title = 'suvojit root page';
+  
 }
 
 
